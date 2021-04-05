@@ -25,6 +25,9 @@ ___________________________________________
 1. Extract the contents of the downloaded DayZBR_CSP.v0.9.6.3c.zip file into the server Arma 2 OA directory.
 2. Create a new database and call it 'battleroyale' and a DB user with username/pass set to 'dayz'
 3. Run the BR_SQL.sql query on the 'battleroyale' database. (There will be errors, but you can ignore them)
+4. edit the bat.
+5. 
+6. 
 
 Files with settings available to change are:
 
